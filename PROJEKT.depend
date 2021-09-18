@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1451558176 source:c:\users\micha許desktop\projektfinal\gui.c
+	<stdio.h>
+	<time.h>
+	"gui.h"
+	"logika.h"
+
+1451558301 c:\users\micha許desktop\projektfinal\gui.h
+
+1451416965 c:\users\micha許desktop\projektfinal\logika.h
+
+1451558452 source:c:\users\micha許desktop\projektfinal\logika.c
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<stdlib.h>
+	"gui.h"
+	"logika.h"
+
+1451557815 source:c:\users\micha許desktop\projektfinal\main.c
+	<stdio.h>
+	"gui.h"
+	"logika.h"
+
